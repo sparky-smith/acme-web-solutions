@@ -380,7 +380,7 @@ Projects
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  outline: 3px solid --clr-primary;
+  outline: 3px solid var(--clr-primary);
   outline-offset: -20px;
   color: var(--clr-primary);
   display: none;
